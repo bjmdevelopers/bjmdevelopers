@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I’m passionate about building creative, impactfu
 - YouTube automation or video tools
 
 ## 📫 How to reach me:
-- 📧 Email: bjmdevelopers@gmail.com *(replace with your actual contact if different)*
-- 💼 LinkedIn: [linkedin.com/in/bjmdevelopers](https://linkedin.com/in/bjmdevelopers)
-- 🌐 Portfolio: [bjmdevs.com](https://bjmdevs.com) *(add if you have one)*
+- 📧 Email: [bjmdevelopers777@gmail.com]
+- 💼 LinkedIn: [Bhargav Gondaliya](https://www.linkedin.com/in/bhargav-gondaliya-2b168624b)
+- 🌐 Portfolio: [bjmdevelopers](https://bjmdevs.com) 
 
 ## 😄 Pronouns:
 He/Him
