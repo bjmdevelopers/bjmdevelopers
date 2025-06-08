@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m @bjmdevelopers
+# 👋 Hi there, I’m Bhargav
 
 Welcome to my GitHub profile! I’m passionate about building creative, impactful, and efficient digital solutions.
 
