@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I’m passionate about building creative, impactfu
 He/Him
 
 ## ⚡ Fun fact:
-I believe in building systems that upgrade people’s lives — from smart tools to meaningful apps. Also, I can play blindfold chess while brainstorming startup ideas. 🧠🔥
+I believe in building systems that upgrade people’s lives — from smart tools to meaningful apps. Also, I can play chess while brainstorming startup ideas. 🧠🔥
 
 ---
 
