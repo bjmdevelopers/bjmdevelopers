@@ -22,11 +22,6 @@ Welcome to my GitHub profile! I’m passionate about building creative, impactfu
 - Chrome extensions, mobile apps, and SaaS ideas
 - YouTube automation or video tools
 
-## 📫 How to reach me:
-- 📧 Email: [bjmdevelopers777@gmail.com]
-- 💼 LinkedIn: [Bhargav Gondaliya](https://www.linkedin.com/in/bhargav-gondaliya-2b168624b)
-- 🌐 Portfolio: [bjmdevelopers](https://bjmdevs.com) 
-
 ## 😄 Pronouns:
 He/Him
 
