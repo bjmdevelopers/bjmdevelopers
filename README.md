@@ -1,10 +1,10 @@
-# 👋 Hi there, I’m Bhargav Gondaliya
+# 👋 Hi , I’m Bhargav 
 
 Welcome to my GitHub profile! I’m passionate about building creative, impactful, and efficient digital solutions that solve real-world problems.
 
 ---
 
-## 🔗 [Link Hub – Explore All My Work](https://bjmdevelopers.github.io/Link-Hub/)
+## 🔗 [Link Hub – All Our Socials](https://bjmdevelopers.github.io/Link-Hub/)
 Your one-stop destination for my projects, social handles, and tools I'm building.
 
 ---
