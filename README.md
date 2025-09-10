@@ -4,11 +4,6 @@ Welcome to my GitHub profile! I’m passionate about building creative, impactfu
 
 ---
 
-## 🔗 [Link Hub – All Our Socials](https://bjmdevelopers.github.io/Link-Hub/)
-Your one-stop destination for my projects, social handles, and tools I'm building.
-
----
-
 ## 👀 Interests
 - 🚀 **Web & App Development** – Building intuitive, fast, and scalable solutions  
 - 🧠 **AI, ML, and Automation** – From data to decision-making  
