@@ -1,6 +1,6 @@
-# Hi, I'm Bhargav Gondaliya. 
+# Hi, I'm Bhargav Gondaliya
 
-**Pharmacology Researcher · Builder · Pharma-Tech Enthusiast**
+**Pharmacology Researcher and Pharma-Tech Builder**
 
 I'm an M.Pharm Pharmacology student interested in the intersection of pharmaceutical research, artificial intelligence, and software engineering. I like building practical tools that turn complex problems into simple, useful systems, especially in drug discovery, healthcare, research, and productivity.
 
